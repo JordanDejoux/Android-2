@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloGridView</string>
+    <string name="settings">Parametres</string>
+    <string name="options">Options</string>
+    <string name="about">Info</string>
+
+</resources>
